@@ -4,8 +4,8 @@ This project created for Webmaster.Kitchen's Followers
 
 ## Getting Started
 
--flutter pub get
--flutter run 
+- flutter pub get
+- flutter run 
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Packages
 
--image_picker
--tflite
+- image_picker
+- tflite
 
 ## Red or Blue App
 
